@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+.frase{
+font-family: 'Vollkorn', serif;
+    padding: 1em;
+}
+
+.branco, .navbar a{
+    color: #fff;
+}
+
